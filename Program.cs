@@ -23,7 +23,7 @@ class LogicalOperations {
 
         numOps = 0;
         temp = 0;
-        myVar = 42; // The answer to everything
+        myVar = 7; // The answer to everything
 
         firstOp();
         secondOp();
@@ -67,7 +67,7 @@ class LogicalOperations {
     // Fifth Operation
     private void fifthOp() {
 
-        if (myVar * myVar > 10)
+        if (myVar * myVar < 10)
             Console.WriteLine("myVar is less than 4.");
 
         else
