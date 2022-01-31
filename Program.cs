@@ -23,7 +23,7 @@ class LogicalOperations {
 
         numOps = 0;
         temp = 0;
-        myVar = 7; // The answer to everything
+        myVar = 42; // The answer to everything
 
         firstOp();
         secondOp();
